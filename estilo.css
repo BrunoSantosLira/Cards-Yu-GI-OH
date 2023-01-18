@@ -1,1 +1,67 @@
+#container-texto{
+    margin: 0 auto;
+    width: 100%;
+}
+
+#carta{
+    width: 45%;
+}
+
+.container-fluid{
+    width: 90%;
+    background-color: red;
+}
+
+.card .border .border-primary .mb-5  
+.style #container-texto{
+    width: 40rem;
+}
+
+
+
+@media (min-width: 575.98px) {
+    #carta{
+        width: 75%;
+    }
+
+    li{
+        font-size: 2rem;
+    }
+
+    element.style {
+        width: 32rem;
+    }
+ }
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+ }
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+ }
+
+
+@media (min-width: 1200px) {
+    #container-texto{
+        margin: 0 auto;
+        float: right;
+    }
+
+    li{
+        font-size: 1rem;
+    }
+
+    #carta{
+        width: 35%;
+    }
+    
+ }
 
